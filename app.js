@@ -5,3 +5,5 @@ require('./function-test')
 // sayHi("john")
 // sayHi(names.susan)
 // sayHi(names.peter)
+
+console.log("hello Tharindu")
