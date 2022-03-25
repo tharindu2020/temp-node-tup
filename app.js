@@ -6,4 +6,4 @@ require('./function-test')
 // sayHi(names.susan)
 // sayHi(names.peter)
 
-console.log("hello Tharindu")
+console.log("hello saman")
